@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "328194674523",
+    "firebase_url": "https://flutter-faq-27a4d-default-rtdb.firebaseio.com",
+    "project_id": "flutter-faq-27a4d",
+    "storage_bucket": "flutter-faq-27a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328194674523:android:e165ad680484e347a3147e",
+        "android_client_info": {
+          "package_name": "com.flutter.faqs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH7fK9-mB-zZXN2JOTDaNAFnVRt0JTd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
